@@ -1,0 +1,3 @@
+[submodule "PAL-SDK"]
+	path = PAL-SDK
+	url = https://github.com/DreamVu/PAL-SDK.git
